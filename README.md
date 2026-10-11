@@ -11,6 +11,7 @@ An end-to-end AI-powered system for automating credit risk analysis and predicti
 ### 🛠️ Tech Stack
 Python, Streamlit, SQLite, Pandas, NumPy, Scikit-Learn, Imbalanced-Learn (SMOTE)
 
+
 ### ⚙️ How to Run
 ```bash
 pip install -r requirements.txt
